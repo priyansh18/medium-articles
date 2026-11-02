@@ -1,0 +1,119 @@
+{
+  "n_tasks": 30,
+  "overall_accuracy": {
+    "always_cheap": 0.4333,
+    "always_strong": 0.6667,
+    "routed": 0.4333
+  },
+  "accuracy_by_tier": {
+    "easy": {
+      "always_cheap": 0.7,
+      "always_strong": 1.0,
+      "routed": 0.7
+    },
+    "medium": {
+      "always_cheap": 0.3,
+      "always_strong": 0.5,
+      "routed": 0.3
+    },
+    "hard": {
+      "always_cheap": 0.3,
+      "always_strong": 0.5,
+      "routed": 0.3
+    }
+  },
+  "total_cost_usd": {
+    "always_cheap": 0.002366,
+    "always_strong": 0.062204,
+    "routed": 0.019484
+  },
+  "escalation_rate": 0.4667,
+  "escalation_rate_by_tier": {
+    "easy": 0.6,
+    "medium": 0.4,
+    "hard": 0.4
+  },
+  "avg_latency_s": {
+    "always_cheap": 1.151,
+    "always_strong": 10.048
+  },
+  "miscalibration_examples": [
+    {
+      "id": "e2",
+      "tier": "easy",
+      "reported_confidence": 90,
+      "cheap_correct": false,
+      "escalated": false
+    },
+    {
+      "id": "m1",
+      "tier": "medium",
+      "reported_confidence": 90,
+      "cheap_correct": false,
+      "escalated": false
+    },
+    {
+      "id": "m4",
+      "tier": "medium",
+      "reported_confidence": 98,
+      "cheap_correct": false,
+      "escalated": false
+    },
+    {
+      "id": "m5",
+      "tier": "medium",
+      "reported_confidence": 90,
+      "cheap_correct": false,
+      "escalated": false
+    },
+    {
+      "id": "m7",
+      "tier": "medium",
+      "reported_confidence": 99,
+      "cheap_correct": false,
+      "escalated": false
+    },
+    {
+      "id": "m10",
+      "tier": "medium",
+      "reported_confidence": 75,
+      "cheap_correct": false,
+      "escalated": false
+    },
+    {
+      "id": "h1",
+      "tier": "hard",
+      "reported_confidence": 80,
+      "cheap_correct": false,
+      "escalated": false
+    },
+    {
+      "id": "h5",
+      "tier": "hard",
+      "reported_confidence": 100,
+      "cheap_correct": false,
+      "escalated": false
+    },
+    {
+      "id": "h8",
+      "tier": "hard",
+      "reported_confidence": 100,
+      "cheap_correct": false,
+      "escalated": false
+    },
+    {
+      "id": "h9",
+      "tier": "hard",
+      "reported_confidence": 80,
+      "cheap_correct": false,
+      "escalated": false
+    },
+    {
+      "id": "h10",
+      "tier": "hard",
+      "reported_confidence": 80,
+      "cheap_correct": false,
+      "escalated": false
+    }
+  ]
+}
