@@ -12,6 +12,7 @@ instead of a new standalone repo each time.
 | [My LLM Router Spent 8x More and Matched the Cheap Model Exactly](https://medium.com/@singhalpriyansh58/my-llm-router-spent-8x-more-and-matched-the-cheap-model-exactly-0153690cfbd1) | 2026-10-21 | [`confidence-router-benchmark/`](./confidence-router-benchmark) |
 | [I Split One Agent Into Three. The Plan Never Reached the Executor.](https://medium.com/@singhalpriyansh58/i-split-one-agent-into-three-the-plan-never-reached-the-executor-00a7d17b70ca) | 2026-10-14 | [`agent-handoff-loss-benchmark/`](./agent-handoff-loss-benchmark) |
 | My Agent Had the Right Tool in a 50-Tool Menu. It Used the Wrong One. | *draft, not yet published* | [`tool-count-confusion/`](./tool-count-confusion) |
+| My LLM Judge Caught 1 of 41 Wrong Answers. One Line Fixed the Rest. | *draft, not yet published* | [`llm-judge-rubber-stamp/`](./llm-judge-rubber-stamp) |
 
 Each folder is self-contained: its own `README.md`, `methodology.md`, raw results, analysis,
 and license, exactly as it would be as a standalone repo — nothing shared or cross-referenced

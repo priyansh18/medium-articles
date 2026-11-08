@@ -1,0 +1,202 @@
+[
+  {
+    "id": "htask_00",
+    "prompt": "A bakery had 13 trays of cookies with 16 cookies on each tray. It sold 9 full trays. Then it used 25% of the remaining cookies (rounded down to the nearest whole cookie) for a sample display. How many cookies are left after the sample display?",
+    "answer": 48,
+    "work": {
+      "total": 208,
+      "remaining_after_sale": 64,
+      "used_for_sample": 16
+    }
+  },
+  {
+    "id": "htask_01",
+    "prompt": "A bakery had 14 trays of cookies with 17 cookies on each tray. It sold 5 full trays. Then it used 15% of the remaining cookies (rounded down to the nearest whole cookie) for a sample display. How many cookies are left after the sample display?",
+    "answer": 131,
+    "work": {
+      "total": 238,
+      "remaining_after_sale": 153,
+      "used_for_sample": 22
+    }
+  },
+  {
+    "id": "htask_02",
+    "prompt": "A bakery had 14 trays of cookies with 15 cookies on each tray. It sold 12 full trays. Then it used 30% of the remaining cookies (rounded down to the nearest whole cookie) for a sample display. How many cookies are left after the sample display?",
+    "answer": 21,
+    "work": {
+      "total": 210,
+      "remaining_after_sale": 30,
+      "used_for_sample": 9
+    }
+  },
+  {
+    "id": "htask_03",
+    "prompt": "A bakery had 8 trays of cookies with 9 cookies on each tray. It sold 5 full trays. Then it used 20% of the remaining cookies (rounded down to the nearest whole cookie) for a sample display. How many cookies are left after the sample display?",
+    "answer": 22,
+    "work": {
+      "total": 72,
+      "remaining_after_sale": 27,
+      "used_for_sample": 5
+    }
+  },
+  {
+    "id": "htask_04",
+    "prompt": "A bakery had 8 trays of cookies with 9 cookies on each tray. It sold 6 full trays. Then it used 10% of the remaining cookies (rounded down to the nearest whole cookie) for a sample display. How many cookies are left after the sample display?",
+    "answer": 17,
+    "work": {
+      "total": 72,
+      "remaining_after_sale": 18,
+      "used_for_sample": 1
+    }
+  },
+  {
+    "id": "htask_05",
+    "prompt": "A bakery had 12 trays of cookies with 15 cookies on each tray. It sold 4 full trays. Then it used 30% of the remaining cookies (rounded down to the nearest whole cookie) for a sample display. How many cookies are left after the sample display?",
+    "answer": 84,
+    "work": {
+      "total": 180,
+      "remaining_after_sale": 120,
+      "used_for_sample": 36
+    }
+  },
+  {
+    "id": "htask_06",
+    "prompt": "A bakery had 6 trays of cookies with 16 cookies on each tray. It sold 2 full trays. Then it used 10% of the remaining cookies (rounded down to the nearest whole cookie) for a sample display. How many cookies are left after the sample display?",
+    "answer": 58,
+    "work": {
+      "total": 96,
+      "remaining_after_sale": 64,
+      "used_for_sample": 6
+    }
+  },
+  {
+    "id": "htask_07",
+    "prompt": "A bakery had 6 trays of cookies with 11 cookies on each tray. It sold 2 full trays. Then it used 30% of the remaining cookies (rounded down to the nearest whole cookie) for a sample display. How many cookies are left after the sample display?",
+    "answer": 31,
+    "work": {
+      "total": 66,
+      "remaining_after_sale": 44,
+      "used_for_sample": 13
+    }
+  },
+  {
+    "id": "htask_08",
+    "prompt": "A bakery had 6 trays of cookies with 20 cookies on each tray. It sold 3 full trays. Then it used 20% of the remaining cookies (rounded down to the nearest whole cookie) for a sample display. How many cookies are left after the sample display?",
+    "answer": 48,
+    "work": {
+      "total": 120,
+      "remaining_after_sale": 60,
+      "used_for_sample": 12
+    }
+  },
+  {
+    "id": "htask_09",
+    "prompt": "A bakery had 13 trays of cookies with 17 cookies on each tray. It sold 5 full trays. Then it used 30% of the remaining cookies (rounded down to the nearest whole cookie) for a sample display. How many cookies are left after the sample display?",
+    "answer": 96,
+    "work": {
+      "total": 221,
+      "remaining_after_sale": 136,
+      "used_for_sample": 40
+    }
+  },
+  {
+    "id": "htask_10",
+    "prompt": "A bakery had 9 trays of cookies with 18 cookies on each tray. It sold 4 full trays. Then it used 25% of the remaining cookies (rounded down to the nearest whole cookie) for a sample display. How many cookies are left after the sample display?",
+    "answer": 68,
+    "work": {
+      "total": 162,
+      "remaining_after_sale": 90,
+      "used_for_sample": 22
+    }
+  },
+  {
+    "id": "htask_11",
+    "prompt": "A bakery had 6 trays of cookies with 18 cookies on each tray. It sold 2 full trays. Then it used 25% of the remaining cookies (rounded down to the nearest whole cookie) for a sample display. How many cookies are left after the sample display?",
+    "answer": 54,
+    "work": {
+      "total": 108,
+      "remaining_after_sale": 72,
+      "used_for_sample": 18
+    }
+  },
+  {
+    "id": "htask_12",
+    "prompt": "A bakery had 10 trays of cookies with 14 cookies on each tray. It sold 6 full trays. Then it used 10% of the remaining cookies (rounded down to the nearest whole cookie) for a sample display. How many cookies are left after the sample display?",
+    "answer": 51,
+    "work": {
+      "total": 140,
+      "remaining_after_sale": 56,
+      "used_for_sample": 5
+    }
+  },
+  {
+    "id": "htask_13",
+    "prompt": "A bakery had 10 trays of cookies with 13 cookies on each tray. It sold 8 full trays. Then it used 15% of the remaining cookies (rounded down to the nearest whole cookie) for a sample display. How many cookies are left after the sample display?",
+    "answer": 23,
+    "work": {
+      "total": 130,
+      "remaining_after_sale": 26,
+      "used_for_sample": 3
+    }
+  },
+  {
+    "id": "htask_14",
+    "prompt": "A bakery had 14 trays of cookies with 12 cookies on each tray. It sold 2 full trays. Then it used 10% of the remaining cookies (rounded down to the nearest whole cookie) for a sample display. How many cookies are left after the sample display?",
+    "answer": 130,
+    "work": {
+      "total": 168,
+      "remaining_after_sale": 144,
+      "used_for_sample": 14
+    }
+  },
+  {
+    "id": "htask_15",
+    "prompt": "A bakery had 7 trays of cookies with 14 cookies on each tray. It sold 2 full trays. Then it used 20% of the remaining cookies (rounded down to the nearest whole cookie) for a sample display. How many cookies are left after the sample display?",
+    "answer": 56,
+    "work": {
+      "total": 98,
+      "remaining_after_sale": 70,
+      "used_for_sample": 14
+    }
+  },
+  {
+    "id": "htask_16",
+    "prompt": "A bakery had 12 trays of cookies with 9 cookies on each tray. It sold 2 full trays. Then it used 10% of the remaining cookies (rounded down to the nearest whole cookie) for a sample display. How many cookies are left after the sample display?",
+    "answer": 81,
+    "work": {
+      "total": 108,
+      "remaining_after_sale": 90,
+      "used_for_sample": 9
+    }
+  },
+  {
+    "id": "htask_17",
+    "prompt": "A bakery had 9 trays of cookies with 11 cookies on each tray. It sold 2 full trays. Then it used 25% of the remaining cookies (rounded down to the nearest whole cookie) for a sample display. How many cookies are left after the sample display?",
+    "answer": 58,
+    "work": {
+      "total": 99,
+      "remaining_after_sale": 77,
+      "used_for_sample": 19
+    }
+  },
+  {
+    "id": "htask_18",
+    "prompt": "A bakery had 12 trays of cookies with 19 cookies on each tray. It sold 8 full trays. Then it used 25% of the remaining cookies (rounded down to the nearest whole cookie) for a sample display. How many cookies are left after the sample display?",
+    "answer": 57,
+    "work": {
+      "total": 228,
+      "remaining_after_sale": 76,
+      "used_for_sample": 19
+    }
+  },
+  {
+    "id": "htask_19",
+    "prompt": "A bakery had 7 trays of cookies with 17 cookies on each tray. It sold 3 full trays. Then it used 20% of the remaining cookies (rounded down to the nearest whole cookie) for a sample display. How many cookies are left after the sample display?",
+    "answer": 55,
+    "work": {
+      "total": 119,
+      "remaining_after_sale": 68,
+      "used_for_sample": 13
+    }
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "task_00",
+    "prompt": "A shop had 53 notebooks. It received a new shipment of 12 more notebooks. Then 14 notebooks were sold. How many notebooks does the shop have now?",
+    "answer": 51
+  },
+  {
+    "id": "task_01",
+    "prompt": "A shop had 18 notebooks. It received a new shipment of 7 more notebooks. Then 19 notebooks were given away. How many notebooks does the shop have now?",
+    "answer": 6
+  },
+  {
+    "id": "task_02",
+    "prompt": "A shop had 58 notebooks. It received a new shipment of 40 more notebooks. Then 3 notebooks were sold. How many notebooks does the shop have now?",
+    "answer": 95
+  },
+  {
+    "id": "task_03",
+    "prompt": "A shop had 39 notebooks. It received a new shipment of 5 more notebooks. Then 4 notebooks were lost. How many notebooks does the shop have now?",
+    "answer": 40
+  },
+  {
+    "id": "task_04",
+    "prompt": "A shop had 65 notebooks. It received a new shipment of 7 more notebooks. Then 9 notebooks were given away. How many notebooks does the shop have now?",
+    "answer": 63
+  },
+  {
+    "id": "task_05",
+    "prompt": "A shop had 82 notebooks. It received a new shipment of 30 more notebooks. Then 3 notebooks were sold. How many notebooks does the shop have now?",
+    "answer": 109
+  },
+  {
+    "id": "task_06",
+    "prompt": "A shop had 27 notebooks. It received a new shipment of 17 more notebooks. Then 22 notebooks were sold. How many notebooks does the shop have now?",
+    "answer": 22
+  },
+  {
+    "id": "task_07",
+    "prompt": "A shop had 86 notebooks. It received a new shipment of 6 more notebooks. Then 20 notebooks were sold. How many notebooks does the shop have now?",
+    "answer": 72
+  },
+  {
+    "id": "task_08",
+    "prompt": "A shop had 62 notebooks. It received a new shipment of 6 more notebooks. Then 9 notebooks were given away. How many notebooks does the shop have now?",
+    "answer": 59
+  },
+  {
+    "id": "task_09",
+    "prompt": "A shop had 83 notebooks. It received a new shipment of 11 more notebooks. Then 11 notebooks were lost. How many notebooks does the shop have now?",
+    "answer": 83
+  },
+  {
+    "id": "task_10",
+    "prompt": "A shop had 30 notebooks. It received a new shipment of 37 more notebooks. Then 5 notebooks were sold. How many notebooks does the shop have now?",
+    "answer": 62
+  },
+  {
+    "id": "task_11",
+    "prompt": "A shop had 51 notebooks. It received a new shipment of 38 more notebooks. Then 23 notebooks were given away. How many notebooks does the shop have now?",
+    "answer": 66
+  },
+  {
+    "id": "task_12",
+    "prompt": "A shop had 25 notebooks. It received a new shipment of 40 more notebooks. Then 20 notebooks were sold. How many notebooks does the shop have now?",
+    "answer": 45
+  },
+  {
+    "id": "task_13",
+    "prompt": "A shop had 36 notebooks. It received a new shipment of 26 more notebooks. Then 5 notebooks were sold. How many notebooks does the shop have now?",
+    "answer": 57
+  },
+  {
+    "id": "task_14",
+    "prompt": "A shop had 20 notebooks. It received a new shipment of 39 more notebooks. Then 3 notebooks were sold. How many notebooks does the shop have now?",
+    "answer": 56
+  },
+  {
+    "id": "task_15",
+    "prompt": "A shop had 38 notebooks. It received a new shipment of 34 more notebooks. Then 23 notebooks were sold. How many notebooks does the shop have now?",
+    "answer": 49
+  },
+  {
+    "id": "task_16",
+    "prompt": "A shop had 66 notebooks. It received a new shipment of 23 more notebooks. Then 16 notebooks were sold. How many notebooks does the shop have now?",
+    "answer": 73
+  },
+  {
+    "id": "task_17",
+    "prompt": "A shop had 70 notebooks. It received a new shipment of 26 more notebooks. Then 11 notebooks were given away. How many notebooks does the shop have now?",
+    "answer": 85
+  },
+  {
+    "id": "task_18",
+    "prompt": "A shop had 35 notebooks. It received a new shipment of 18 more notebooks. Then 4 notebooks were sold. How many notebooks does the shop have now?",
+    "answer": 49
+  },
+  {
+    "id": "task_19",
+    "prompt": "A shop had 50 notebooks. It received a new shipment of 36 more notebooks. Then 17 notebooks were lost. How many notebooks does the shop have now?",
+    "answer": 69
+  }
+]
