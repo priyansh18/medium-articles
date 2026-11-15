@@ -1,0 +1,81 @@
+
+=== rotate_list ===
+  baseline attempt (shared across all 3 conditions)...
+  baseline: 6/6 (ran)
+  baseline already fully passes; no retries fired for any condition.
+
+=== merge_intervals ===
+  baseline attempt (shared across all 3 conditions)...
+  baseline: 6/6 (ran)
+  baseline already fully passes; no retries fired for any condition.
+
+=== longest_substring_without_repeat ===
+  baseline attempt (shared across all 3 conditions)...
+  baseline: 6/6 (ran)
+  baseline already fully passes; no retries fired for any condition.
+
+=== next_greater_permutation ===
+  baseline attempt (shared across all 3 conditions)...
+  baseline: 2/5 (ran)
+  blind retry attempt 2...
+  blind retry 2: 5/5 (ran)
+  error-aware retry attempt 2...
+  error-aware retry 2: 2/5 (ran)
+  error-aware retry attempt 3...
+  error-aware retry 3: 2/5 (ran)
+
+=== int_to_roman ===
+  baseline attempt (shared across all 3 conditions)...
+  baseline: 6/6 (ran)
+  baseline already fully passes; no retries fired for any condition.
+
+=== run_length_encode ===
+  baseline attempt (shared across all 3 conditions)...
+  baseline: 5/5 (ran)
+  baseline already fully passes; no retries fired for any condition.
+
+=== leftmost_insert_position ===
+  baseline attempt (shared across all 3 conditions)...
+  baseline: 5/5 (ran)
+  baseline already fully passes; no retries fired for any condition.
+
+=== spiral_order ===
+  baseline attempt (shared across all 3 conditions)...
+  baseline: 5/5 (ran)
+  baseline already fully passes; no retries fired for any condition.
+
+=== group_anagrams ===
+  baseline attempt (shared across all 3 conditions)...
+  baseline: 4/4 (ran)
+  baseline already fully passes; no retries fired for any condition.
+
+=== valid_parenthesis_with_star ===
+  baseline attempt (shared across all 3 conditions)...
+  baseline: 4/6 (ran)
+  blind retry attempt 2...
+  blind retry 2: 3/6 (ran)
+  blind retry attempt 3...
+  blind retry 3: 4/6 (ran)
+  error-aware retry attempt 2...
+  error-aware retry 2: 4/6 (ran)
+  error-aware retry attempt 3...
+  error-aware retry 3: 5/6 (ran)
+
+=== majority_element ===
+  baseline attempt (shared across all 3 conditions)...
+  baseline: 4/4 (ran)
+  baseline already fully passes; no retries fired for any condition.
+
+=== decode_ways ===
+  baseline attempt (shared across all 3 conditions)...
+  baseline: 0/6 (ran)
+  blind retry attempt 2...
+  blind retry 2: 3/6 (ran)
+  blind retry attempt 3...
+  blind retry 3: 2/6 (ran)
+  error-aware retry attempt 2...
+  error-aware retry 2: 2/6 (ran)
+  error-aware retry attempt 3...
+  error-aware retry 3: 2/6 (ran)
+
+DONE.

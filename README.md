@@ -11,8 +11,9 @@ instead of a new standalone repo each time.
 | [I Reproduced OpenAI's Agent Safety-Alert Evasion on a Free Model](https://medium.com/@singhalpriyansh58/i-reproduced-openais-agent-safety-alert-evasion-on-a-free-model-5979288406b1) | 2026-10-28 | [`agent-safety-alert-suppression-toy/`](./agent-safety-alert-suppression-toy) |
 | [My LLM Router Spent 8x More and Matched the Cheap Model Exactly](https://medium.com/@singhalpriyansh58/my-llm-router-spent-8x-more-and-matched-the-cheap-model-exactly-0153690cfbd1) | 2026-10-21 | [`confidence-router-benchmark/`](./confidence-router-benchmark) |
 | [I Split One Agent Into Three. The Plan Never Reached the Executor.](https://medium.com/@singhalpriyansh58/i-split-one-agent-into-three-the-plan-never-reached-the-executor-00a7d17b70ca) | 2026-10-14 | [`agent-handoff-loss-benchmark/`](./agent-handoff-loss-benchmark) |
-| My Agent Had the Right Tool in a 50-Tool Menu. It Used the Wrong One. | *draft, not yet published* | [`tool-count-confusion/`](./tool-count-confusion) |
-| My LLM Judge Caught 1 of 41 Wrong Answers. One Line Fixed the Rest. | *draft, not yet published* | [`llm-judge-rubber-stamp/`](./llm-judge-rubber-stamp) |
+| [My Agent Had the Right Tool in a 50-Tool Menu. It Used the Wrong One.](https://medium.com/@singhalpriyansh58/my-agent-had-the-right-tool-in-a-50-tool-menu-it-used-the-wrong-one-2e0e129db407) | 2026-11-05 | [`tool-count-confusion/`](./tool-count-confusion) |
+| [My LLM Judge Caught 1 of 41 Wrong Answers. One Line Fixed the Rest.](https://medium.com/@singhalpriyansh58/my-llm-judge-caught-1-of-41-wrong-answers-one-line-fixed-the-rest-54423e736604) | 2026-11-12 | [`llm-judge-rubber-stamp/`](./llm-judge-rubber-stamp) |
+| I Showed My Coding Agent Its Own Bug. It Copied the Bug Twice. | *draft, not yet published* | [`retry-made-it-worse/`](./retry-made-it-worse) |
 
 Each folder is self-contained: its own `README.md`, `methodology.md`, raw results, analysis,
 and license, exactly as it would be as a standalone repo — nothing shared or cross-referenced
