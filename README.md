@@ -14,6 +14,7 @@ instead of a new standalone repo each time.
 | [My Agent Had the Right Tool in a 50-Tool Menu. It Used the Wrong One.](https://medium.com/@singhalpriyansh58/my-agent-had-the-right-tool-in-a-50-tool-menu-it-used-the-wrong-one-2e0e129db407) | 2026-11-05 | [`tool-count-confusion/`](./tool-count-confusion) |
 | [My LLM Judge Caught 1 of 41 Wrong Answers. One Line Fixed the Rest.](https://medium.com/@singhalpriyansh58/my-llm-judge-caught-1-of-41-wrong-answers-one-line-fixed-the-rest-54423e736604) | 2026-11-12 | [`llm-judge-rubber-stamp/`](./llm-judge-rubber-stamp) |
 | [I Showed My Coding Agent Its Own Bug. It Copied the Bug Twice.](https://medium.com/@singhalpriyansh58/i-showed-my-coding-agent-its-own-bug-it-copied-the-bug-twice-099bd2d11ce4) | 2026-11-18 | [`retry-made-it-worse/`](./retry-made-it-worse) |
+| Adding a Style Guide Made My Coding Agent Reintroduce a Bug | Pending (link added once published) | [`coding-agent-instructions-experiment/`](./coding-agent-instructions-experiment) |
 
 Each folder is self-contained: its own `README.md`, `methodology.md`, raw results, analysis,
 and license, exactly as it would be as a standalone repo — nothing shared or cross-referenced

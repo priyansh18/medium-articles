@@ -1,0 +1,17 @@
+{
+  "tasks_file": "tasks.py",
+  "task_count": 14,
+  "conditions": ["none", "concise", "long"],
+  "trials_per_task_per_condition": 1,
+  "total_completions": 42,
+  "provider_requested": "auto",
+  "provider_chain": ["gemini", "groq", "ollama"],
+  "providers_actually_used": {"gemini": 1, "ollama": 41},
+  "ollama_model": "llama3.1:8b",
+  "gemini_model": "gemini-3.6-flash",
+  "groq_model_configured": "llama-3.3-70b-versatile",
+  "groq_status": "unavailable this run, HTTP 404 on the configured model endpoint",
+  "sleep_between_calls_seconds": 1.0,
+  "pytest_timeout_seconds": 20,
+  "run_date": "2026-11-22"
+}

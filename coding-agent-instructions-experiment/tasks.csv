@@ -1,0 +1,15 @@
+id,description,bug_family
+off_by_one_range,"sum_first_n(nums, n) returns sum of first n elements",off-by-one range bound
+wrong_comparison,"is_adult(age) returns True if age >= 18",boundary comparison operator
+mutable_default_arg,"add_item(item, bucket=None) appends to a fresh list each call",mutable default argument
+string_format_bug,"format_price(cents) formats cents as '$X.YY'",string formatting / missing precision
+wrong_exception_type,"safe_divide(a, b) raises ValueError not ZeroDivisionError on b=0",wrong exception type
+sort_stability_key,"sort_by_length_desc(words) sorts longest-first, stable ties",sort key/order bug
+list_copy_bug,"double_all(nums) returns new doubled list, does not mutate input",accidental input mutation
+dict_get_default,"count_votes(votes) counts occurrences per name",missing dict default / KeyError
+recursion_base_case,"factorial(n) recursive, factorial(0) == 1",wrong recursion base case
+string_strip_bug,"clean_username(name) lowercases + strips edges only",wrong string method (replace vs strip)
+float_rounding_bug,"average(nums) rounds to 2dp, returns 0.0 on empty list",missing empty-input guard
+boolean_logic_bug,"can_checkout(cart_items, is_logged_in) requires non-empty cart AND login",wrong boolean condition
+index_slice_bug,"last_n(items, n) returns last n items in order, [] if n=0",off-by-one slice bound
+accumulator_scope_bug,"running_totals(nums) returns cumulative sums",accumulator not accumulating (= vs +=)

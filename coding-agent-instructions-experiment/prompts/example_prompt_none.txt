@@ -1,0 +1,10 @@
+Task: Write a function `clean_username(name)` that lowercases a username and strips leading/trailing whitespace only (not internal spaces).
+
+Here is the current (buggy) implementation:
+
+```python
+def clean_username(name):
+    return name.lower().replace(' ', '')
+```
+
+Return ONLY the corrected function, as a single Python code block. No other text.
